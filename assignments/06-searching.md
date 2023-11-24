@@ -7,13 +7,13 @@
 # Problems:
 
 ## Easy
-- [Square Root](https://leetcode.com/problems/sqrtx/)
-- [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
-- [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+- [Square Root](https://leetcode.com/problems/sqrtx/) - Done
+- [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) - Done
+- [First Bad Version](https://leetcode.com/problems/first-bad-version/) - Done
+- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - Done
+- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) - Done
 - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
-- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) - Done
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
@@ -23,14 +23,14 @@
 - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 - [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- [Binary Search](https://leetcode.com/problems/binary-search/)
+- [Binary Search](https://leetcode.com/problems/binary-search/) - Done
 
 ## Medium
-- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - Done
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - Done
 - [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - Done
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 - [Reach a Number](https://leetcode.com/problems/reach-a-number/)
